@@ -1,8 +1,8 @@
 Get Three Word Sequences
 ========================
 
-This program is built to return the 100 most common three-word sequences in one or multiple text files. It also takes parameters from non-tty stdin.  
------------------------------------------------------------------------------------  
+*This program is built to return the 100 most common three-word sequences in one or multiple text files. It also takes parameters from non-tty stdin.*
+
 
 
 # How to Run It #  
