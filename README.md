@@ -19,7 +19,7 @@ Get Three Word Sequences
 * [Install Docker](https://www.docker.com/get-started/)
 * Build a docker image <br>
     `docker build -t [tag_name] [image_name] .`
-* Run it in a docker container
+* Run it in a docker container <br>
     `docker run [image_name]`
 
 # Bugs #  
